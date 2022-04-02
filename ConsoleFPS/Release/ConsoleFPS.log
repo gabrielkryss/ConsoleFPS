@@ -1,0 +1,8 @@
+﻿  ConsoleFPS.cpp
+C:\Users\gabri\dev\ConsoleFPS\ConsoleFPS\ConsoleFPS.cpp(156,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\dev\ConsoleFPS\ConsoleFPS\ConsoleFPS.cpp(165,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleFPS.vcxproj -> C:\Users\gabri\dev\ConsoleFPS\Release\ConsoleFPS.exe

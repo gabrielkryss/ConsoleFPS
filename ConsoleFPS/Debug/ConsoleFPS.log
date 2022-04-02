@@ -1,0 +1,4 @@
+﻿  ConsoleFPS.cpp
+C:\Users\gabri\dev\ConsoleFPS\ConsoleFPS\ConsoleFPS.cpp(156,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\gabri\dev\ConsoleFPS\ConsoleFPS\ConsoleFPS.cpp(165,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  ConsoleFPS.vcxproj -> C:\Users\gabri\dev\ConsoleFPS\Debug\ConsoleFPS.exe
